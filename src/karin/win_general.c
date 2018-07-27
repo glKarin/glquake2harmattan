@@ -53,7 +53,6 @@ static unsigned karinHandleVKBAction(int action, unsigned pressed, int dx, int d
 			{
 				in_state->Key_Event_fp (_keys[i], pressed);
 				//printf("%c ", k[i]);
-				i++;
 			}
 			return 1;
 		}
