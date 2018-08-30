@@ -1,8 +1,9 @@
-glquake2 (0.3-3harmattan2015natasha2) unstable; urgency=low
+glquake2 (0.3-3harmattan2015natasha5) unstable; urgency=low
 
   * Fixed a bug.
+  * Fixed swipe bug on virtual button layer.
 
- -- Karin Zhao <beyondk2000@gmail.com>  Fri, 27 Jul 2018 15:32:05 +0800
+ -- Karin Zhao <beyondk2000@gmail.com>  Thu, 30 Aug 2018 19:52:15 +0800
 
 glquake2 (0.3-3harmattan2015natasha1) unstable; urgency=low
 

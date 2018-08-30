@@ -59,7 +59,7 @@ static unsigned karinHandleVKBAction(int action, unsigned pressed, int dx, int d
 	}
 	else if(r == Button_Data)
 	{
-		if(pressed && dx != 0 && dy != 0)
+		if(pressed && (dx != 0 || dy != 0))
 		{
 			mx += dx;
 			my -= dy;
